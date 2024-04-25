@@ -25,3 +25,4 @@ v = np.vstack((h,h,h,h)) # 4 images vertivally
 cv2.imshow("profile",v) # Total = 4 x 3=12 images
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
